@@ -1,0 +1,19 @@
+int xx1=5;
+if(xx1==5){
+print (99);
+}
+elseif(xx1==6){
+print(xx1);
+}
+elseif(xx1<10){
+print(10);
+}
+else{
+print(xx1+12);
+}
+int ayman;
+print(ayman);
+ayman=10;
+print(ayman);
+int i = 100;
+while( i );
